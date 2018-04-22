@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.minedrixmc:GameEngine:0.1-SNAPSHOT-R0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minedrixmc/GameEngine/0.1-SNAPSHOT-R0/GameEngine-0.1-SNAPSHOT-R0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minedrixmc/GameEngine/0.1-SNAPSHOT-R0/GameEngine-0.1-SNAPSHOT-R0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minedrixmc/GameEngine/0.1-SNAPSHOT-R0/GameEngine-0.1-SNAPSHOT-R0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

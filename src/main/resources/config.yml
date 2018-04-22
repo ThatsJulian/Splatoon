@@ -1,0 +1,18 @@
+MySQL:
+    DBName: Test
+    DBUser: root
+    DBPass: password
+    DBPort: 3306
+    DBHost: localhost
+
+BlockBlacklist:
+    - 98
+    - 12
+
+LastMap:
+
+GameTime: 120
+
+Lobby:
+
+Maps:

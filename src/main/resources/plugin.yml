@@ -1,0 +1,10 @@
+name: Splatoon
+version: 1.5-BETA
+main: repo.binarydctr.splatoon.Core
+depends: [GameEngine, LibsDisguises]
+commands:
+    addcoins:
+    takecoins:
+    resetcoins:
+    setlobby:
+    create:
